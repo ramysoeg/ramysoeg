@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Ramy Soeg
-- 👯 Various MLM systems since 2014
+- 🤖 Game developer since 2013
+- 👯 Various MLM systems since 2015
 - 🔭 Blockchain developer since 2015
 - 💬 Development of cryptocurrencies tokens and smart contracts since 2017
 - ⚡ Automated trading systems since 2018
-- 🌱 I currently work with financial and mobility systems in Flutter
+- 🌱 Financial and mobility systems in Flutter since 2021
 
 <!--
 **ramysoeg/ramysoeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
